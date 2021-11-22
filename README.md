@@ -90,7 +90,8 @@ void xuanke(int course_id, Course[] stu_c) {
 ```
 # 六、系统运行截图
 &emsp;&emsp;下图是本实验主程序TestBanking.java的运行结果。
-<br>![avatar](https://github.com/songmingyang01/java-1/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
+<br>![avatar](https://github.com/songmingyang01/java-2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-11-22%20092448.png)
+<br>![avatar]（）
 # 七、感想与体会
 &emsp;&emsp;本次实验是我们的第一次上机实验，我在实验过程中遇到了许多困难，但也通过自己的学习将这些困难解决，并对自己的能力有了提高。
 <br>&emsp;&emsp;学习中，在程序阅读时，遇到了许多困难，有一点的吃力，但随着这些问题的出现，我也及时查找了相关资料，也都顺利解决了。在整个学习过程中，我有很多收获。首先是内容上，通读代码，的确帮助我更好地了解了文件的整体结构形式，以及处理一件事情的大体机制；同时，也通过自主学习学会了许多新的知识
